@@ -17,7 +17,6 @@ $detail = 0;
 if (!empty($_GET)){
     $detail = 1;
 }
-
 ?>
 
 <!DOCTYPE html>
